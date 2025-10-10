@@ -9,5 +9,5 @@
  修改了index和AItest靜態排版
 - [說明影片](https://youtu.be/Fwt7aJ67F98)
 - index.tsx:[靜態排版更動](https://github.com/xuanyu410/114-1-internet-web/blob/main/homework2/index.tsx)
-- AItest.tsx:[靜態排版更動]()
+- AItest.tsx:[靜態排版更動](https://github.com/xuanyu410/114-1-internet-web/blob/main/homework2/AItest.tsx)
   
