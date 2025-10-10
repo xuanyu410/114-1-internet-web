@@ -8,5 +8,5 @@
  ## 作業二
 - [說明影片](https://youtu.be/Fwt7aJ67F98)
 - index.tsx:[靜態排版更動](https://github.com/xuanyu410/114-1-internet-web/blob/main/index.tsx)
-- AItest.tsx:[靜態排版更動]
+- AItest.tsx:[靜態排版更動](https://github.com/xuanyu410/114-1-internet-web/blob/main/AItest.tsx)
   
