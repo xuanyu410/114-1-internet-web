@@ -6,6 +6,7 @@
  ## 作業一
 - [個人網站](https://xuanyu410.github.io/114-1-internet-web/)
  ## 作業二
+ 修改了index和AItest靜態排版
 - [說明影片](https://youtu.be/Fwt7aJ67F98)
 - index.tsx:[靜態排版更動](https://github.com/xuanyu410/114-1-internet-web/blob/main/index.tsx)
 - AItest.tsx:[靜態排版更動](https://github.com/xuanyu410/114-1-internet-web/blob/main/AItest.tsx)
