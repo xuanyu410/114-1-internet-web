@@ -7,4 +7,5 @@
 - [個人網站](https://xuanyu410.github.io/114-1-internet-web/)
  ## 作業二
 - [說明影片](https://youtu.be/Fwt7aJ67F98)
+- index.html[靜態排版更動](
   
