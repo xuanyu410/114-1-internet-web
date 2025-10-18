@@ -14,6 +14,5 @@
 建立React專案結構，完整整合個人網站。串接一個gemini API，可以詢問今日運勢。
 - [說明影片](https://youtu.be/FkpDfz_tf4g)
 - [github連結](https://github.com/xuanyu410/hw3)
-- <img width="1917" height="908" alt="螢幕擷取畫面 2025-10-15 144924" src="https://github.com/user-attachments/assets/bb4d0ce9-bf5a-46c8-8afb-0746eda31e54" />
 
   
