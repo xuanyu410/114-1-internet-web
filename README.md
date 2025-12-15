@@ -16,5 +16,11 @@
 - [github連結](https://github.com/xuanyu410/hw3)
 ## 作業四
 - [render](https://hw3-94uj.onrender.com)
+## 期末專題
+- 專題名稱:師聲NTNUTalk
+- 組員姓名與學號:楊媗宇41371104H、薛郁蘭41371230H、華宇童41371232H
+- [線上網站網址](https://introducetotheinternet-finalproject.onrender.com)
+- YouTube 影片連結
+- [專題程式碼]()
 
   
